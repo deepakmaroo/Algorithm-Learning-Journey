@@ -1,4 +1,3 @@
-# 🚀 Algorithm Learning Journey
 
 > Master the art of problem-solving through structured learning
 
@@ -77,5 +76,3 @@ Advanced Topics     ░░░░░░░░░░░░░░░░░░░░
 4. Start weekly mock interviews
 
 ---
-
-*Last updated: June 12, 2025*
